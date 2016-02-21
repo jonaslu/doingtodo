@@ -1,0 +1,23 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+
+.main-form {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.main-form .main-form-heading {
+    margin-bottom: 10px;
+}
+
+.taskinput {
+    margin-bottom: 5px;
+}
+
+.remove-button {
+    cursor: pointer;
+}
